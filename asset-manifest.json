@@ -16,8 +16,8 @@
     "static/js/6.a35f18e2.chunk.js.map": "/static/js/6.a35f18e2.chunk.js.map",
     "main.js": "/static/js/main.726e5017.chunk.js",
     "main.js.map": "/static/js/main.726e5017.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8bbbcff.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8bbbcff.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39b55415.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39b55415.js.map",
     "static/css/9.121b3ca3.chunk.css": "/static/css/9.121b3ca3.chunk.css",
     "static/js/9.8b60f074.chunk.js": "/static/js/9.8b60f074.chunk.js",
     "static/js/9.8b60f074.chunk.js.map": "/static/js/9.8b60f074.chunk.js.map",
@@ -33,8 +33,8 @@
     "static/js/14.3064d62d.chunk.js.map": "/static/js/14.3064d62d.chunk.js.map",
     "static/js/15.5fb151b1.chunk.js": "/static/js/15.5fb151b1.chunk.js",
     "static/js/15.5fb151b1.chunk.js.map": "/static/js/15.5fb151b1.chunk.js.map",
-    "static/js/16.f02a52b1.chunk.js": "/static/js/16.f02a52b1.chunk.js",
-    "static/js/16.f02a52b1.chunk.js.map": "/static/js/16.f02a52b1.chunk.js.map",
+    "static/js/16.96c2ba75.chunk.js": "/static/js/16.96c2ba75.chunk.js",
+    "static/js/16.96c2ba75.chunk.js.map": "/static/js/16.96c2ba75.chunk.js.map",
     "static/js/17.1295e915.chunk.js": "/static/js/17.1295e915.chunk.js",
     "static/js/17.1295e915.chunk.js.map": "/static/js/17.1295e915.chunk.js.map",
     "static/js/18.16f7d90f.chunk.js": "/static/js/18.16f7d90f.chunk.js",
@@ -90,7 +90,7 @@
     "static/js/9.8b60f074.chunk.js.LICENSE.txt": "/static/js/9.8b60f074.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8bbbcff.js",
+    "static/js/runtime-main.39b55415.js",
     "static/css/9.121b3ca3.chunk.css",
     "static/js/9.8b60f074.chunk.js",
     "static/js/main.726e5017.chunk.js"
