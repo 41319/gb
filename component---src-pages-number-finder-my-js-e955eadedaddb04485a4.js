@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[706],{7408:function(e,t,a){a.r(t),a.d(t,{Head:function(){return c}});var r=a(6540),n=a(2038),l=a(7528),u=a(3628);const c=()=>r.createElement(l.A,{title:"Home"});t.default=()=>r.createElement(n.A,{afterSearch:r.createElement(r.Fragment,null)},r.createElement(u.A,{type:"numbersMY"}))}}]);
-//# sourceMappingURL=component---src-pages-number-finder-my-js-e955eadedaddb04485a4.js.map
